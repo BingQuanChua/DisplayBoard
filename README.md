@@ -24,7 +24,7 @@ Implemented basic error handling in cases of unrecognizable commands.
 
 Prompts user to input commands upon running the file. The size of the display board is fixed.
 
-Command includes: 
+Commands include:  
 (1) the display message,  
 (2) the anchor dot (point where the text starts),  
 (3) moving direction (up, down, left, right, stationary),  
@@ -47,5 +47,6 @@ Demo:<img src="images/demo2.gif">
 
 <details> 
     <summary>Sample Command (Click to show)</summary>
+    <p> <br>External input text file </p>
     <img src="images/sample.png" width=500>
 </details>
